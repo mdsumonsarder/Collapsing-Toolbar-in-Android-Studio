@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CollapsingToolbar</string>
+
+    <string name="aboutToolBsr">About Toolbar</string>
+
+    <string name="aboutCollapsingToolBsr">About Collapsing Toolbar Layout</string>
+
+    <string name="g">Toolbar was introduced in Material Design in API level 21 (Android 5.0 i.e Lollipop). Material Design brings lot of new features in Android that changed a lot the visual design patterns regarding the designing of modern Android applications.\n
+\n
+An Action bar is traditionally a part of an Activity opaque window decor controlled by the framework but a Toolbar may be placed at any level of nesting within a view hierarchy. Toolbar provides more feature than ActionBar. A Toolbar may contain a combination of elements from start to end.\n
+\n
+Important Note: Toolbar’s are more flexible than ActionBar. We can easily modify its color, size and position. We can also add labels, logos, navigation icons and other views in it. In Material Design Android has updated the AppCompat support libraries so that we can use Toolbar’s in our devices running API Level 7 and up. In AppCompat, Toolbar is implemented in the android.support.v7.widget.Toolbar class.</string>
+
+</resources>
